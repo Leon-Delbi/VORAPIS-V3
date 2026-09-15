@@ -1,0 +1,32 @@
+Project VORAPIS (V3) License & Disclaimer
+
+Copyright (c) 2024 VORAPIS (eov3cv@hotmail.com)
+
+All rights reserved.
+
+DISCLAIMER
+
+Project VORAPIS (short. V3) is a JavaScript application developed to run as a userscript/extension on www.youtube.com, aiming to recreate the experience of using YouTube as it was in 2013-2014.
+It is important to note:
+
+1. This project is not funded, endorsed, or affiliated with Google LLC, YouTube, or any of their subsidiaries. V3 is developed independently and operates within the Terms of Service (TOS) of the utilized Google and YouTube services, including but not limited to "My Activity", "InnerTube", and "YouTube Data API v3".
+
+2. The developer(s) of V3 claim rights only to the original code that powers this library. No claim is made to any CSS, HTML, JavaScript, or other assets owned by Google, YouTube, or their subsidiaries. This includes a modified version of the 2014 Google/YouTube HTML5 player, adapted for compatibility with today's APIs. The modification efforts are acknowledged, but proprietary rights to the original player remain with Google/YouTube.
+
+LICENSE TERMS
+
+The V3 project is provided "as is" for personal, non-commercial use, free of charge, with the following conditions:
+
+- Sale or any form of commercial exploitation of V3 is strictly prohibited.
+- Users are not allowed to claim V3 or any of its parts as their own work.
+- The developer(s) of V3 offer no warranties or guarantees regarding the software's functionality, performance, or its compliance with any legal standards.
+
+LIMITATION OF LIABILITY
+
+Under no circumstances shall the developer(s) of V3 be liable for any direct, indirect, incidental, special, or consequential damages resulting from the use of or inability to use the project, including but not limited to reliance on any information obtained through the project; or any failure of performance.
+
+COPYRIGHT NOTICE
+
+Copyright (c) 2024 Project VORAPIS. All rights reserved.
+
+By downloading, accessing, or using V3, you acknowledge that you have read, understood, and agree to comply with the terms and conditions outlined in this license and disclaimer.
